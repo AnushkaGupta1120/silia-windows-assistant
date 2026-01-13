@@ -27,3 +27,12 @@ Designed for:
 - Elderly users
 - Hands-free interaction
 - Assistive computing scenarios
+
+## Quick Start (Windows)
+
+1. Clone the repository
+2. Install Python 3.10
+3. Run `start_silia.bat`
+4. Restart system
+5. Say "hello windows"
+
